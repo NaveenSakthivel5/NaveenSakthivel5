@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Full Stack (MERN Stack)
+- 🌱 I’m a Full Stack Developer (MERN Stack)
 - 💞️ I’m looking to collaborate on IT companies
 - 📫 Reach me through email: naveensakthivel14@gmail.com
 
